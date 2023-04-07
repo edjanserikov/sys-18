@@ -23,4 +23,4 @@
 ![GitDiff_2.JPG](https://github.com/edjanserikov/sys-18/blob/master/img/GitDiff_2.JPG)
 ![GitDiffStaged_2.JPG](https://github.com/edjanserikov/sys-18/blob/master/img/GitDiffStaged_2.JPG)
 
-[Ссылка на коммит](https://github.com/edjanserikov/sys-18/commit/fddd8d40231d877752a8ce6c7af982e3f54b19c2)
+[Ссылка на коммит](https://github.com/edjanserikov/sys-18/commit/0390dd04df395da2113089f8572ebd1ad0d56892)
