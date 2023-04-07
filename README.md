@@ -34,5 +34,5 @@
     - cache/*`
 4. `Сделан коммит и пуш`
 
-[Ссылка на коммит](https://github.com/edjanserikov/sys-18/commit/d5fe3703b8a56be1c51b54e73242fd187ea4f225)
+[Ссылка на коммит](https://github.com/edjanserikov/sys-18/commit/95b5910acf88bc68b5d66a72dd46c09e2a5835ef)
 
