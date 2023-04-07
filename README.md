@@ -36,3 +36,14 @@
 
 [Ссылка на коммит](https://github.com/edjanserikov/sys-18/commit/95b5910acf88bc68b5d66a72dd46c09e2a5835ef)
 
+### Задание 3
+
+1. `Создана новая ветка dev`
+2. `Создан файл test.sh`
+3. `Сделаны несколько коммитов и пушей`
+4. `Сделан merge ветки dev в ветку master`
+5. `Сделан коммит и пуш`
+
+[Ссылка на граф коммитов](https://github.com/edjanserikov/sys-18/network)
+
+
